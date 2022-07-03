@@ -16,3 +16,17 @@ for i in range(K) :
 	val +=1
 
 print(sum)
+
+
+output 
+8 7 3 3 -3 -3 -4 -8
+
+k= 0 
+  add = 8 
+k = 1
+ add =8+7=15
+k =2 
+  add = 15+3
+  add = 18 +3 =21
+k = 3 
+   add 21 + (-3) 	
